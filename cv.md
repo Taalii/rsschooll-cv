@@ -30,4 +30,3 @@ Graphics: Figma
 * Russian - native speaker
 * Ukrainian - native speaker
 * English – beginning
-https://Taalii.github.io/rsschooll-cv/cv
